@@ -1,78 +1,78 @@
-<?xml-stylesheet type="text/xsl" href="tersfeld.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>tersfeld.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/categories/go/</loc>
+    <loc>/categories/go/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/tags/go-mod/</loc>
+    <loc>/tags/go-mod/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/tags/modules/</loc>
+    <loc>/tags/modules/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/post/private-repo-golang/</loc>
+    <loc>/post/private-repo-golang/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tersfeld.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-09-25T15:29:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

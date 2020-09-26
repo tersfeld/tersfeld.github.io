@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: tersfeld.github.io/sitemap.xml
+Sitemap: /sitemap.xml
