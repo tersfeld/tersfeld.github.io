@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on Thomas Ersfeld</title>
+    <link>tersfeld.github.io/tags/github/</link>
+    <description>Recent content in github on Thomas Ersfeld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Sep 2020 15:29:12 +0100</lastBuildDate><atom:link href="tersfeld.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Private Go modules on a privately hosted github instance</title>
+      <link>tersfeld.github.io/post/private-repo-golang/</link>
+      <pubDate>Fri, 25 Sep 2020 15:29:12 +0100</pubDate>
+      
+      <guid>tersfeld.github.io/post/private-repo-golang/</guid>
+      <description>Go modules are highly dependant on github to fetch modules, it is fine in most cases as tons of modules are available publicly on it.
+It can get tricky when you got your private Go libraries that are not hosted on github.com. Here is a simple solution to pull them from your git instance without breaking the fetching of public dependencies on Github.
+This will only work on Go 1.13 with the introduction of GOPRIVATE env.</description>
+    </item>
+    
+  </channel>
+</rss>
